@@ -1,0 +1,12 @@
+D:\Paweł\Podyplomówka\1 semestr\Technologie komponentowe\Projekt\Komis samochodowy Pawełv3\Komis\bin\Debug\Komis.exe.config
+D:\Paweł\Podyplomówka\1 semestr\Technologie komponentowe\Projekt\Komis samochodowy Pawełv3\Komis\bin\Debug\Komis.exe
+D:\Paweł\Podyplomówka\1 semestr\Technologie komponentowe\Projekt\Komis samochodowy Pawełv3\Komis\bin\Debug\Komis.pdb
+D:\Paweł\Podyplomówka\1 semestr\Technologie komponentowe\Projekt\Komis samochodowy Pawełv3\Komis\bin\Debug\Komis.xml
+D:\Paweł\Podyplomówka\1 semestr\Technologie komponentowe\Projekt\Komis samochodowy Pawełv3\Komis\obj\Debug\Komis.vbproj.AssemblyReference.cache
+D:\Paweł\Podyplomówka\1 semestr\Technologie komponentowe\Projekt\Komis samochodowy Pawełv3\Komis\obj\Debug\Komis.Form1.resources
+D:\Paweł\Podyplomówka\1 semestr\Technologie komponentowe\Projekt\Komis samochodowy Pawełv3\Komis\obj\Debug\Komis.Resources.resources
+D:\Paweł\Podyplomówka\1 semestr\Technologie komponentowe\Projekt\Komis samochodowy Pawełv3\Komis\obj\Debug\Komis.vbproj.GenerateResource.cache
+D:\Paweł\Podyplomówka\1 semestr\Technologie komponentowe\Projekt\Komis samochodowy Pawełv3\Komis\obj\Debug\Komis.vbproj.CoreCompileInputs.cache
+D:\Paweł\Podyplomówka\1 semestr\Technologie komponentowe\Projekt\Komis samochodowy Pawełv3\Komis\obj\Debug\Komis.exe
+D:\Paweł\Podyplomówka\1 semestr\Technologie komponentowe\Projekt\Komis samochodowy Pawełv3\Komis\obj\Debug\Komis.xml
+D:\Paweł\Podyplomówka\1 semestr\Technologie komponentowe\Projekt\Komis samochodowy Pawełv3\Komis\obj\Debug\Komis.pdb
